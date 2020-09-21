@@ -1,0 +1,15 @@
+.nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid rgb(235, 235, 235);
+}
+
+.nav__logo {
+	height: 40px;
+	width: 40px;
+}
+
+.nav__icon {
+	padding: 20px;
+}
